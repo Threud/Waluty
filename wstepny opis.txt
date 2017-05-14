@@ -1,0 +1,2 @@
+Mateusz Dêbski
+Kalkulator walut w WPF, pobieraj¹cy dane z serwera lub z pliku.
